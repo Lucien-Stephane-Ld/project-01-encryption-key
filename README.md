@@ -11,4 +11,4 @@ https://basakbuluttekin.atlassian.net/jira/software/projects/CNU/boards/1
 - encrypt()
 - decrypt()
 - Encryption Dictionary/key
-- Code compiler
+- Compiled code
